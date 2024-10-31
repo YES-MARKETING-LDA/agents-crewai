@@ -1,0 +1,4 @@
+firebase-functions
+firebase-admin
+crewai
+crewai_tools
